@@ -78,9 +78,4 @@
 </p>
 
 
-## 📊 GitHub Activity
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=sakshi-suryawanshi)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sakshi-suryawanshi)
 
