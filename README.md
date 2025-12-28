@@ -1,93 +1,35 @@
-# Hi, I'm Sakshi 👋  
+# Hi 👋, I'm Sakshi
 
-Backend Software Engineer with 2+ years of experience building, optimizing, and maintaining production-grade backend systems.  
-I specialize in **Python, Django, cloud-native architectures, and DevOps**, and I enjoy owning systems end-to-end — from design to deployment and production debugging.
+### An experienced Python developer
 
-🌍 Currently working fully remote with international teams  
-🛠 Focused on scalable backend systems, reliability, and performance  
-📦 Interested in backend-heavy, long-term remote roles  
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sakshi-suryawanshi" alt="sakshi-suryawanshi" /></a> </p>
 
----
+- 🔭 I'm currently working on **Designing and maintaining backend systems using Python and Django, focusing on performance, reliability, and production stability in a remote team.**
 
-## 🔧 Tech Stack
+- 🌱 I'm currently learning **Advanced system design, Kubernetes deployment strategies, backend scalability patterns, and improving observability for production systems.**
 
-**Languages**
-- Python, JavaScript, Java
+- 👯 I'm looking to collaborate on **Backend projects using Python/Django, scalable APIs, cloud-native systems, and DevOps-focused open-source tools.**
 
-**Backend & APIs**
-- Django, Flask, NestJS
-- REST APIs, GraphQL
-- JWT Authentication, Role-Based Access Control
+- 🤝 I'm looking for help with **Building production-grade open-source backend projects and improving architecture.**
 
-**Databases**
-- MySQL, PostgreSQL, MongoDB, SQLite, Redshift
+- 💬 Ask me about **Python, Django, backend system design, production debugging, database optimization, and remote team workflows.**
 
-**Cloud & DevOps**
-- AWS (EC2, RDS, S3, Redshift)
-- Docker, Kubernetes
-- CI/CD, Pulumi
+- 📫 How to reach me **sakshi.suryawanshi520@gmail.com**
 
-**Monitoring & Debugging**
-- CloudWatch
-- Grafana Loki
-- Production log analysis & incident response
+- ⚡ Fun fact **I enjoy debugging production issues and turning incidents into documentation and long-term fixes.**
 
----
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/sakshi-suryawanshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="sakshi-suryawanshi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/sakshi-suryawanshi-21b11819b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sakshi-suryawanshi-21b11819b/" height="30" width="40" /></a>
+</p>
 
-## 🚀 Featured Projects
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/anaconda" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=anaconda" alt="anaconda" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/aws" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bash" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/codeigniter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/django" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/fastapi" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flask" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/grafana" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=grafana" alt="grafana" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/graphql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=graphql" alt="graphql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jest" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=jest" alt="jest" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jupyter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kubernetes" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kubernetes" alt="kubernetes" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/materialize" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nestjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nestjs" alt="nestjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nextjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nginx" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nginx" alt="nginx" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/oracle" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pandas" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/redis" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/seaborn" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sqlite" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tensorflow" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a></p>
 
-### 🗂 Task Management System
-**Tech:** Django, DRF, MySQL, Redis, Celery, Docker  
-- Scalable backend for task & project management  
-- JWT authentication and role-based access  
-- Redis caching + Celery background jobs  
-- Production-ready Dockerized setup  
-🔗 *Repository:* (add link)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sakshi-suryawanshi&show_icons=true&locale=en&layout=compact" alt="sakshi-suryawanshi" /></p>
 
----
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sakshi-suryawanshi&show_icons=true&locale=en" alt="sakshi-suryawanshi" /></p>
 
-### 🌐 Mingling Minds
-**Tech:** NextJS, GraphQL, PostgreSQL, Prisma, AWS  
-- Twitter-like social platform with real-time feeds  
-- Google OAuth 2.0 + JWT-based security  
-- Optimized GraphQL queries using code generation  
-🔗 *Repository:* (add link)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sakshi-suryawanshi&" alt="sakshi-suryawanshi" /></p>
 
----
-
-### 🎧 Speech Emotion Recognition System
-**Tech:** Python, TensorFlow, Librosa  
-- Trained CNN model on 8,000+ audio samples  
-- Achieved ~95% classification accuracy  
-- Published research work as a book chapter  
-🔗 *Repository:* (add link)
-
----
-
-## 🏗 Backend Engineering Highlights
-
-- Owned backend systems used internally and indirectly by customer-facing apps  
-- Reduced system downtime by improving AWS infrastructure (ALB adoption)  
-- Optimized database queries and indexing for performance-critical endpoints  
-- Led multiple third-party API integrations  
-- Migrated backend repositories from **Django to NestJS**  
-- Actively involved in production incident management and postmortems  
-- Mentored junior developers and conducted internal KT sessions  
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=<your-username>&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=<your-username>&layout=compact)
-
----
-
-## 📫 Connect With Me
-
-- 💼 LinkedIn: (linkedin.com/in/sakshi-suryawanshi-21b11819b)
-- 📧 Email: sakshi.suryawanshi520@gmail.com
-
----
-
-⭐ *I believe in clean code, clear documentation, and systems that stay stable at 2 AM.*
